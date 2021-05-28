@@ -1,4 +1,4 @@
-## REquest for Proposal (RFP)
+## Request for Proposal (RFP)
 
 Background:
 The Public Transit Authority (PTA) is examining the feasibility of building a new bus terminal on in downtown Sydney, Nova Scotia. The bus terminal will have four bus bays, a heated waiting area with seating, a coffee shop and washrooms. There might also be underground parking for people who work in the area of Dorchester Street. The bus terminal may also be used by long-distance bus operators like Maritime Bus.
